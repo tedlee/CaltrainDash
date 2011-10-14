@@ -1,0 +1,7 @@
+A simple Caltrain schedule dashboard that we used in the Bump offices. Also shows recent @CalTrain tweets.
+
+It is currently set up to show Mountain View caltrain times but you can change this with:
+
+$url = "http://thenexttrain.com/at/caltrain/YOURSTATION
+
+Where YOURSTATION is the station id used in the AbelTrain API. 
